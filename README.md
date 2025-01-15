@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer , Mobile Developer**
 
-- 👨‍💻 All of my projects are available at [Portofolio](muhirsyadddd.github.io)
+- 👨‍💻 All of my projects are available at [Portofolio](https://muhirsyadddd.github.io/)
 
 - 📫 How to reach me **muhamadirsyadnurdinofficial@gmail.com**
 
