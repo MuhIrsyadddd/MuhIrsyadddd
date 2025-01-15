@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Full Stack Developer , Mobile Developer**
 
-- 👨‍💻 All of my projects are available at [muhirsyadddd.github.io](muhirsyadddd.github.io)
+- 👨‍💻 All of my projects are available at [Portofolio](muhirsyadddd.github.io)
 
 - 📫 How to reach me **muhamadirsyadnurdinofficial@gmail.com**
 
-- 📄 Know about my experiences [https://muhirsyadddd.github.io/CV%20ATS%20Muhamad%20Irsyad%20Nurdin.pdf](https://muhirsyadddd.github.io/CV%20ATS%20Muhamad%20Irsyad%20Nurdin.pdf)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/muhirsyaddd/)
 
 - ⚡ Fun fact **Push The Limit**
 
